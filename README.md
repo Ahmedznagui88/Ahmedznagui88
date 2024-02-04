@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedznagui88&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedznagui88" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](git@github.com:Ahmedznagui88/portfolio.git)
+- 🔭 I’m currently working on my [Portfolio](git@github.com:Ahmedznagui88/portfolio.git)
 
 - 🌱 I’m currently learning **ReactJS => Angular => NodeJS**
 
