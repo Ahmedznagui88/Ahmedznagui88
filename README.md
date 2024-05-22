@@ -5,7 +5,7 @@
 
 <p align="center">I’m currently working on my Portfolio</p>
 
-<p align="center">I’m currently learning **ReactJS => Angular => NodeJS**</p>
+<p align="center">I’m currently learning **ReactJS => C#/.Net
 
 <p align="center">How to reach me **ahmed.znagui@hotmail.com**</p>
 
